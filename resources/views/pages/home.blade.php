@@ -1,11 +1,11 @@
 @extends('layouts.master')
 
 @section('content')
- <!-- about section -->
+ {{--about section --}}
  <section class="section pt-0" id="about">
-        <!-- container -->
+        {{--container --}}
         <div class="container text-center">
-            <!-- about wrapper -->
+            {{--about wrapper --}}
             <div class="about">
                 <div class="about-img-holder">
                     <img src="{{asset('assets/imgs')}}/man.png" class="about-img"
@@ -20,16 +20,16 @@
                     </p>
                     <button class="btn-rounded btn btn-outline-primary mt-4">Download CV</button>
                 </div>
-            </div><!-- end of about wrapper -->
-        </div><!-- end of container -->
-    </section> <!-- end of about section -->
+            </div>{{--end of about wrapper --}}
+        </div>{{--end of container --}}
+    </section> {{--end of about section --}}
 
-    <!-- service section -->
+    {{--service section --}}
     <section class="section" id="service">
         <div class="container text-center">
             <p class="section-subtitle">What I Do ?</p>
             <h6 class="section-title mb-6">Service</h6>
-            <!-- row -->
+            {{--row --}}
             <div class="row">
                 <div class="col-md-6 col-lg-3">
                     <div class="service-card">
@@ -79,16 +79,16 @@
                         </div>
                     </div>
                 </div>
-            </div><!-- end of row -->
+            </div>{{--end of row --}}
         </div>
-    </section><!-- end of service section -->
+    </section>{{--end of service section --}}
 
-    <!-- portfolio section -->
+    {{--portfolio section --}}
     <section class="section" id="portfolio">
         <div class="container text-center">
             <p class="section-subtitle">What I Did ?</p>
             <h6 class="section-title mb-6">Portfolio</h6>
-            <!-- row -->
+            {{--row --}}
             <div class="row">
                 <div class="col-md-4">
                     <a href="#" class="portfolio-card">
@@ -126,16 +126,16 @@
                         </span>
                     </a>
                 </div>
-            </div><!-- end of row -->
-        </div><!-- end of container -->
-    </section> <!-- end of portfolio section -->
+            </div>{{--end of row --}}
+        </div>{{--end of container --}}
+    </section> {{--end of portfolio section --}}
 
 
-    <!-- section -->
+    {{--section --}}
     <section class="section-sm bg-primary">
-        <!-- container -->
+        {{--container --}}
         <div class="container text-center text-sm-left">
-            <!-- row -->
+            {{--row --}}
             <div class="row align-items-center">
                 <div class="col-sm offset-md-1 mb-4 mb-md-0">
                     <h6 class="title text-light">Want to work with me?</h6>
@@ -144,9 +144,9 @@
                 <div class="col-sm offset-sm-2 offset-md-3">
                     <button class="btn btn-lg my-font btn-light rounded">Hire Me</button>
                 </div>
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </section> <!-- end of section -->
+            </div> {{--end of row --}}
+        </div> {{--end of container --}}
+    </section> {{--end of section --}}
 
 
     
@@ -156,7 +156,7 @@
         <div class="container text-center">
             <p class="section-subtitle">How can you communicate?</p>
             <h6 class="section-title mb-5">Contact Me</h6>
-            <!-- contact form -->
+            {{--contact form --}}
             <form action="" class="contact-form col-md-10 col-lg-8 m-auto">
                 <div class="form-row">
                     <div class="form-group col-sm-6">
@@ -173,7 +173,7 @@
                         <input type="submit" value="Send Message" class="btn btn-outline-primary rounded">
                     </div>
                 </div>
-            </form><!-- end of contact form -->
-        </div><!-- end of container -->
+            </form>{{--end of contact form --}}
+        </div>{{--end of container --}}
     </section> {{-- CONTACT SECTION ENDS --}}
 @endsection
