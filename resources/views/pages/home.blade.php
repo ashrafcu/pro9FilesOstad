@@ -96,8 +96,8 @@
                             alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page">
                         <span class="portfolio-card-overlay">
                             <span class="portfolio-card-caption">
-                                <h4>Web Designing</h5>
-                                    <p class="font-weight-normal">Category: Web Templates</p>
+                                <h4>Bless International School</h4>
+                                    <p class="font-weight-normal">Category: WordPress</p>
                             </span>
                         </span>
                     </a>
@@ -108,8 +108,8 @@
                             alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page">
                         <span class="portfolio-card-overlay">
                             <span class="portfolio-card-caption">
-                                <h4>Web Designing</h5>
-                                    <p class="font-weight-normal">Category: Web Templates</p>
+                                <h4>ITAURI MOHILA ALIM MADRASAH</h4>
+                                    <p class="font-weight-normal">Category: Content Management</p>
                             </span>
                         </span>
                     </a>
@@ -120,8 +120,8 @@
                             alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page">
                         <span class="portfolio-card-overlay">
                             <span class="portfolio-card-caption">
-                                <h4>Web Designing</h5>
-                                    <p class="font-weight-normal">Category: Web Templates</p>
+                                <h4>Nanda Home Developments</h4>
+                                    <p class="font-weight-normal">Category: Website Development</p>
                             </span>
                         </span>
                     </a>
