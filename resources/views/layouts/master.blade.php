@@ -12,14 +12,7 @@
     <link rel="stylesheet" href="{{asset('assets/vendors')}}/themify-icons/css/themify-icons.css">
     {{-- Bootstrap and Meyawo Styles--}}
     <link rel="stylesheet" href="{{asset('assets/css')}}/meyawo.css">
-    <script src=" {{asset('assets/vendors')}}/jquery/jquery-3.4.1.js"></script>
-    <script src=" {{asset('assets/vendors')}}/bootstrap/bootstrap.bundle.js"></script>
-
-    {{--BOOTSTRAP 3 AFFIXATION--}}
-    <script src=" {{asset('assets/vendors')}}/bootstrap/bootstrap.affix.js"></script>
-
-    {{-- Meyawo js --}}
-    <script src="{{asset('assets/js')}}/meyawo.js"></script>
+    
 
 </head>
 <body data-spy="scroll" data-target=".navbar" data-offset="40" id="home">
@@ -33,7 +26,14 @@
 @include('components.footer')
 {{-- CORE SECTION ENDS  --}}
     
-   
+<script src=" {{asset('assets/vendors')}}/jquery/jquery-3.4.1.js"></script>
+    <script src=" {{asset('assets/vendors')}}/bootstrap/bootstrap.bundle.js"></script>
+
+    {{--BOOTSTRAP 3 AFFIXATION--}}
+    <script src=" {{asset('assets/vendors')}}/bootstrap/bootstrap.affix.js"></script>
+
+    {{-- Meyawo js --}}
+    <script src="{{asset('assets/js')}}/meyawo.js"></script>
 </body>
 
 </html>
