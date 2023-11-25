@@ -1,4 +1,4 @@
-    <!-- page header -->
+    {{--Page Header--}}
     <header id="home" class="header">
         <div class="overlay"></div>
         <div class="header-content container">
@@ -10,4 +10,4 @@
 
             <button class="btn btn-primary">Explore my portfolio</button>
         </div>
-    </header><!-- end of page header -->
+    </header>{{-- end of page header --}}
